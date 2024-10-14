@@ -9,5 +9,4 @@ class MutantsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
